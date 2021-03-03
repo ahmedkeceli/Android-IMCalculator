@@ -17,7 +17,7 @@
         android:layout_marginTop="10dp"
         android:textColor="#000000"
         android:textSize="20dp"
-        android:text="Taille (m) : "
+        android:text="@string/txt_taille"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"/>
     <EditText
@@ -28,7 +28,7 @@
         android:layout_marginTop="30dp"
         android:textColor="#000000"
         android:textSize="20dp"
-        android:text="Poids (kg) : "
+        android:text="@string/txt_poids"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"/>
     <EditText
@@ -46,7 +46,7 @@
         android:layout_marginTop="40dp"
         android:textSize="23dp"
         android:textColor="#ff0000"
-        android:text="Résultat"
+        android:text="@string/txt_result"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"/>
 
